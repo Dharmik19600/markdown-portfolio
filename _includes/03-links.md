@@ -1,1 +1,1 @@
-Replace this by link
+[GitHub](http://github.com)
